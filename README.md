@@ -24,7 +24,7 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Work / Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,redux,html,css,sass,mongodb,express,firebase,mysql,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,mysql,react,javascript,redux,html,css,sass,mongodb,express,firebase,postman&theme=dark)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,figma&theme=dark)](https://skillicons.dev)
 
