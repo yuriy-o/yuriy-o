@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/quiet-node">
-    <img src="https://raw.githubusercontent.com/yuriy-o/yuriy-o/main/yuriy.png" alt="HELLO WORLD!" /></a>
-</p>
-
-
 <h1 align="center">HELLO WORLD! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center">
    <a href="https://git.io/typing-svg">
