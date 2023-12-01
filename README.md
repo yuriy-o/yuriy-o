@@ -18,15 +18,22 @@
 </div>
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Work / Skills</h2>
+<h2 style="margin: 5px 10px;">Work / Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,mysql,ts,postman,mongodb,express,firebase&theme=dark)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,javascript,html,css,sass&theme=dark)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,figma,docker,bootstrap,aws&theme=dark)](https://skillicons.dev)
 
 </div>
 
-<h2 align="center" style="margin: 5px 10px;">u8views statistic</h2>
-[![Yuriy profile views](https://u8views.com/api/v1/github/profiles/82809592/views/day-week-month-total-count.svg)](https://u8views.com/github/yuriy-o)
+<div style="text-align: center;">
+<h2  style="margin: 5px 10px;">Statistic GitHub Views</h2>
+    <a href="https://u8views.com/github/yuriy-o">
+        <img src="https://u8views.com/api/v1/github/profiles/82809592/views/day-week-month-total-count.svg" alt="GitHub Views">
+    </a>
 
-<a href="https://u8views.com/github/yuriy-o" align="center"><img src="https://u8views.com/api/v1/github/profiles/82809592/views/day-week-month-total-count.svg"></a>
+<!-- [![Yuriy profile views](https://u8views.com/api/v1/github/profiles/82809592/views/day-week-month-total-count.svg)](https://u8views.com/github/yuriy-o) -->
+
+</div>
