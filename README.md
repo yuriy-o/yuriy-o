@@ -25,3 +25,10 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,figma,docker,bootstrap,aws&theme=dark)](https://skillicons.dev)
 
 </div>
+
+<h2 align="center" style="margin: 5px 10px;">u8views statistic</h2>
+[![Yuriy profile views](https://u8views.com/api/v1/github/profiles/82809592/views/day-week-month-total-count.svg)](https://u8views.com/github/yuriy-o)
+
+<!-- [![Yaroslav Podorvanov profile views](https://github.com/u8views/go-u8views/blob/main/public/assets/images/yaroslav-podorvanov-developer.jpg?raw=true)](https://u8views.com/github/YaroslavPodorvanov) -->
+
+<a href="https://u8views.com/github/yuriy-o"><img src="https://u8views.com/api/v1/github/profiles/82809592/views/day-week-month-total-count.svg"></a>
