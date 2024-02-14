@@ -28,12 +28,9 @@
 
 </div>
 
-<div align="center">
-<h2  style="margin: 5px 10px;">Statistic GitHub Views</h2>
-    <a href="https://u8views.com/github/yuriy-o">
-        <img src="https://u8views.com/api/v1/github/profiles/82809592/views/day-week-month-total-count.svg" alt="GitHub Views">
-    </a>
-
-<!-- [![Yuriy profile views](https://u8views.com/api/v1/github/profiles/82809592/views/day-week-month-total-count.svg)](https://u8views.com/github/yuriy-o) -->
-
-</div>
+[//]: # (<div align="center">)
+[//]: # (<h2  style="margin: 5px 10px;">Statistic GitHub Views</h2>)
+[//]: # (    <a href="https://u8views.com/github/yuriy-o">)
+[//]: # (        <img src="https://u8views.com/api/v1/github/profiles/82809592/views/day-week-month-total-count.svg" alt="GitHub Views">)
+[//]: # (    </a>)
+[//]: # (</div>)
